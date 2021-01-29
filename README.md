@@ -1,5 +1,5 @@
 # Problem-Solving
-codeforces, hackerrank, and letcode problems & solutions
+codeforces, hackerrank and letcode problems & solutions
 
 ## Some Notes
   1. note 1
